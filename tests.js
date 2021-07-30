@@ -94,3 +94,5 @@ console.assert(result === 6, {
   expected: 6,
   result: result
 });
+
+console.log(wagon)
